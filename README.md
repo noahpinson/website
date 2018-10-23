@@ -11,6 +11,4 @@ Cool stuff goes here
 
 Edit on Example Branch
 
-New Edit on the update-readme file.
-
-Added More
+Updates made on master on Github before rebase
