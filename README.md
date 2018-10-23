@@ -2,13 +2,7 @@
 
 Readme file for website project.
 
-## Purpose
+## Repository Purpose
 
-This Purpose of this repo is to provide a real world example
-to work with Git courses.
-
-Cool stuff goes here
-
-Edit on Example Branch
-
-Updates made on master on Github before rebase
+This will be a change that will conflict with whatever is on the remote side.
+This is what is on the local side.
