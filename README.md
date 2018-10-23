@@ -12,3 +12,5 @@ Cool stuff goes here
 Edit on Example Branch
 
 New Edit on the update-readme file.
+
+Added More
