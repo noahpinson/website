@@ -2,7 +2,6 @@
 
 Readme file for website project.
 
-## Repository Purpose
+## Purpose
 
-This will be a change that will conflict with whatever is on the remote side.
-This is what is on the local side.
+The purpose of this file is to provide examples on how to use git and Github together.
