@@ -1,3 +1,6 @@
 *.log
 /target
 /build
+
+#Mac OS temp files
+.DS_Score
